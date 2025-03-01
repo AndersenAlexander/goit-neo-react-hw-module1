@@ -42,26 +42,26 @@ Overview
                 cd goit-neo-react-hw-module1
                 npm install
 
-  3.Start development server:
-        npm run dev
+          3.Start development server:
+                npm run dev
 
         
-Open http://localhost:5173 (default Vite port) in your browser.
-
           4. Build for production:
                 npm run build
 
           5. Then preview the production build:
                 npm run preview
 
-     
-Usage
-        Open the app in your browser to view the three tasks on a single page:
+        Open http://localhost:5173 (default Vite port) in your browser.
 
-                Task 1: Social Media Profile
-                Task 2: Friend List
-                Task 3: Transaction History
-        Each section is displayed with centered layout and modular CSS styling.
+     
+        Usage
+                Open the app in your browser to view the three tasks on a single page:
+
+                        Task 1: Social Media Profile
+                        Task 2: Friend List
+                        Task 3: Transaction History
+                Each section is displayed with centered layout and modular CSS styling.
 
 
 Contributing
