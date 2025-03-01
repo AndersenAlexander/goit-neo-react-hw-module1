@@ -1,4 +1,5 @@
 Topic 2: Components and Styling by Alexander Andersen
+
 This repository contains three React-based tasks focusing on component creation and styling using Vite and CSS Modules. The goal is to practice building reusable UI components and applying modular styles in a clean, maintainable way.
 
 Overview
@@ -26,31 +27,27 @@ JSON files store data for each task (user, friends, transactions), which are imp
 Installation and Setup
 Clone the repository:
 
-bash
-Copiază
+
+
 git clone https://github.com/your-username/goit-neo-react-hw-module1.git
 Install dependencies:
 
-bash
-Copiază
+
 cd goit-neo-react-hw-module1
 npm install
 Start development server:
 
-bash
-Copiază
+
 npm run dev
 Open http://localhost:5173 (default Vite port) in your browser.
 
 Build for production:
 
-bash
-Copiază
+
 npm run build
 Then preview the production build:
 
-bash
-Copiază
+
 npm run preview
 Usage
 Open the app in your browser to view the three tasks on a single page:
