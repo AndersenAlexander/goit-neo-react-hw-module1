@@ -17,19 +17,9 @@ Vite for fast development and bundling
 CSS Modules for scoped, modular styling
 JSON data files to keep the App component clean and focused on rendering
 Project Structure
-src/
-├─ components/
-│  ├─ Profile/
-│  ├─ FriendList/
-│  ├─ FriendListItem/
-│  └─ TransactionHistory/
-├─ data/
-│  ├─ userData.json
-│  ├─ friends.json
-│  └─ transactions.json
-├─ App.jsx
-├─ main.jsx
-└─ index.css
+
+![Screenshot 2025-03-02 000156](https://github.com/user-attachments/assets/680a9fd5-a376-4a6b-9508-44e57f15f055)
+
 
 Each component has its own folder with a .jsx file and a corresponding .module.css file.
 JSON files store data for each task (user, friends, transactions), which are imported into App.jsx.
