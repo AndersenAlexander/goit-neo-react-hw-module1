@@ -30,12 +30,12 @@ Project Structure
 
 
 
-        Each component has its own folder with a .jsx file and a corresponding .module.css file.
-        JSON files store data for each task (user, friends, transactions), which are imported into App.jsx.
+Each component has its own folder with a .jsx file and a corresponding .module.css file.
+JSON files store data for each task (user, friends, transactions), which are imported into App.jsx.
 
 
 
-        Installation and Setup
+Installation and Setup
           1. Clone the repository:
                 git clone https://github.com/your-username/goit-neo-react-hw-module1.git
 
@@ -54,7 +54,7 @@ Project Structure
           5. Then preview the production build:
                 npm run preview
 
-        Open http://localhost:5173 (default Vite port) in your browser.
+Open http://localhost:5173 (default Vite port) in your browser.
 
      
         Usage
