@@ -1,4 +1,4 @@
-              Topic 2: Components and Styling by Alexander Andersen
+#Topic 2: Components and Styling by Alexander Andersen
 
 This repository contains three React-based tasks focusing on component creation and styling using Vite and CSS Modules. The goal is to practice building reusable UI components and applying modular styles in a clean, maintainable way.
 
