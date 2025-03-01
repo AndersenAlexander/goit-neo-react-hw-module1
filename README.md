@@ -23,6 +23,9 @@ Overview
 
 ![Screenshot 2025-03-02 000156](https://github.com/user-attachments/assets/680a9fd5-a376-4a6b-9508-44e57f15f055)
 
+![Screenshot 2025-03-02 001307](https://github.com/user-attachments/assets/c7f255b3-00d4-4e3c-8d44-efbeb5879dfa)
+
+
 
         Each component has its own folder with a .jsx file and a corresponding .module.css file.
         JSON files store data for each task (user, friends, transactions), which are imported into App.jsx.
