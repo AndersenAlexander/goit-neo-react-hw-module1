@@ -36,22 +36,23 @@ JSON files store data for each task (user, friends, transactions), which are imp
 
 
 Installation and Setup
-          1. Clone the repository:
+
+1. Clone the repository:
                 git clone https://github.com/your-username/goit-neo-react-hw-module1.git
 
 
-          2. Install dependencies:
+2. Install dependencies:
                 cd goit-neo-react-hw-module1
                 npm install
 
-          3.Start development server:
+3.Start development server:
                 npm run dev
 
         
-          4. Build for production:
+4. Build for production:
                 npm run build
 
-          5. Then preview the production build:
+5. Then preview the production build:
                 npm run preview
 
 Open http://localhost:5173 (default Vite port) in your browser.
