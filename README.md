@@ -20,7 +20,9 @@ Overview
                Vite for fast development and bundling
                CSS Modules for scoped, modular styling
                JSON data files to keep the App component clean and focused on rendering
-               Project Structure
+
+               
+Project Structure
 
 ![Screenshot 2025-03-02 000156](https://github.com/user-attachments/assets/680a9fd5-a376-4a6b-9508-44e57f15f055)
 
