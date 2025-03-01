@@ -4,28 +4,33 @@ This repository contains three React-based tasks focusing on component creation 
 
 Overview
 Task 1: Social Media Profile
-Displays user information such as name, tag, location, and activity stats. The data is imported from a JSON file and passed as props to the <Profile> component.
+        Displays user information such as name, tag, location, and activity stats. The data is imported from a JSON file and passed as props to the <Profile> component.
 
 Task 2: Friend List
-Renders a list of friends using the <FriendList> component. Each friend is represented by the <FriendListItem> component, showing avatar, name, and online/offline status. Data is also sourced from a JSON file.
+        Renders a list of friends using the <FriendList> component. Each friend is represented by the <FriendListItem> component, showing avatar, name, and online/offline 
+        status. Data is also sourced from a JSON file.
 
 Task 3: Transaction History
-Implements a <TransactionHistory> component that renders a table of transactions (type, amount, currency). Each transaction is displayed as a table row, with data loaded from a JSON file.
+        Implements a <TransactionHistory> component that renders a table of transactions (type, amount, currency). Each transaction is displayed as a table row, with data 
+        loaded from a JSON file.
 
 Tech Stack
-React for building UI components
-Vite for fast development and bundling
-CSS Modules for scoped, modular styling
-JSON data files to keep the App component clean and focused on rendering
-Project Structure
+       React for building UI components
+       Vite for fast development and bundling
+       CSS Modules for scoped, modular styling
+       JSON data files to keep the App component clean and focused on rendering
+       Project Structure
 
 ![Screenshot 2025-03-02 000156](https://github.com/user-attachments/assets/680a9fd5-a376-4a6b-9508-44e57f15f055)
 
 
 Each component has its own folder with a .jsx file and a corresponding .module.css file.
 JSON files store data for each task (user, friends, transactions), which are imported into App.jsx.
+
+
+
 Installation and Setup
-Clone the repository:
+  1. Clone the repository:
 
 
 
